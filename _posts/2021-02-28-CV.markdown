@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CV-resume"
+date:   2021-02-28 18:41:48 +0200
+categories: jekyll update
+---
+
+You can check out my CV-resume! [[cv-resume]]({{site.baseurl}}/CV.html)
